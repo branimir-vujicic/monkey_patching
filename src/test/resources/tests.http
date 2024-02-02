@@ -1,0 +1,9 @@
+
+###
+GET  localhost:8080/api/aop
+
+###
+GET  localhost:8080/api/decorator
+
+###
+GET  localhost:8080/api/proxy
